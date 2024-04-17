@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "FFdOlPwFqOm9+d6/QhRRsIRiohE8cwNelGbnCM+vnrrAcakAcrE7C1V/iTGrYKDyjEmnI/7kD73HWbXRekBjIA==",
+  "success": true,
+  "projectFilePath": "C:\\Mahmoud\\Technical_Stuff\\ProblemSolving\\C#\\Project\\Task3\\Task3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\melba\\.nuget\\packages\\nettopologysuite\\2.5.0\\nettopologysuite.2.5.0.nupkg.sha512",
+    "C:\\Users\\melba\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}

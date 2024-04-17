@@ -1,0 +1,14 @@
+C:\Mahmoud\Technical_Stuff\ProblemSolving\C#\Project\Task5\obj\Debug\net6.0\Task5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mahmoud\Technical_Stuff\ProblemSolving\C#\Project\Task5\obj\Debug\net6.0\Task5.AssemblyInfoInputs.cache
+C:\Mahmoud\Technical_Stuff\ProblemSolving\C#\Project\Task5\obj\Debug\net6.0\Task5.AssemblyInfo.cs
+C:\Mahmoud\Technical_Stuff\ProblemSolving\C#\Project\Task5\obj\Debug\net6.0\Task5.csproj.CoreCompileInputs.cache
+C:\Mahmoud\Technical_Stuff\ProblemSolving\C#\Project\Task5\bin\Debug\net6.0\Task5.exe
+C:\Mahmoud\Technical_Stuff\ProblemSolving\C#\Project\Task5\bin\Debug\net6.0\Task5.deps.json
+C:\Mahmoud\Technical_Stuff\ProblemSolving\C#\Project\Task5\bin\Debug\net6.0\Task5.runtimeconfig.json
+C:\Mahmoud\Technical_Stuff\ProblemSolving\C#\Project\Task5\bin\Debug\net6.0\Task5.dll
+C:\Mahmoud\Technical_Stuff\ProblemSolving\C#\Project\Task5\bin\Debug\net6.0\Task5.pdb
+C:\Mahmoud\Technical_Stuff\ProblemSolving\C#\Project\Task5\obj\Debug\net6.0\Task5.dll
+C:\Mahmoud\Technical_Stuff\ProblemSolving\C#\Project\Task5\obj\Debug\net6.0\refint\Task5.dll
+C:\Mahmoud\Technical_Stuff\ProblemSolving\C#\Project\Task5\obj\Debug\net6.0\Task5.pdb
+C:\Mahmoud\Technical_Stuff\ProblemSolving\C#\Project\Task5\obj\Debug\net6.0\Task5.genruntimeconfig.cache
+C:\Mahmoud\Technical_Stuff\ProblemSolving\C#\Project\Task5\obj\Debug\net6.0\ref\Task5.dll
